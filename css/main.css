@@ -1,0 +1,17 @@
+.uno, .dos {
+	border: 15px solid yellow;
+	width: 200px;
+	height: 200px;
+	
+}
+.dos{
+	margin: 0 auto;
+}
+
+p{
+	font-family: Times;
+	text-align: center;
+	font-size:12px;
+	font-weight: bold;
+	padding:20px;
+}
